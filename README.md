@@ -1,4 +1,4 @@
-# 🏋️ Workout Tracker App
+# 🏋️ YOUR WORKOUT GUIDE
 
 A structured and aesthetic **Workout Tracker App** built with **Flutter & Django**, designed to help you stay consistent with your fitness journey. This app includes a **checklist-based tracking system, weekly workout schedule, and meal plan monitoring**.
 
